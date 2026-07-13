@@ -38,7 +38,7 @@ Every Seed represents another step forward.
 
 ---
 
-## 🌱 Seed Timeline
+## 🌱 Harvest
 
 - 🌱 Seed 000 - The Decision
 - 🌱 Seed 001 – First GitHub Repository
